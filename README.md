@@ -1,1 +1,9 @@
 # Political-Preference-in-Covid-19
+
+The research focus the influence of the political preference in each county affect the increasing rate of COVID positive cases in counties of the US.
+
+The hypothesis to the question is that how the political preference in each county affects the increasing rate of COVID-19 in the U.S. The U.S has two dominant parties in government to help and create peace and order, therefore they also have different attitudes toward the COVID-19 situation. To be specific, our hypothesis assumes that counties that support the republican party and President Trump are more likely to have a higher increasing rate of COVID in the U.S. Since the Covid started spreading in the U.S, President Trump and the Republican party held over positive attitude to the situation and refused to take any procedures such as process quarantine system because it would cause the instability of the economic market in the U.S. Moreover, President Trump criticized the measurement of the virus and used freedom and the constitution as excuses. Therefore, the followers of the Republican party have a low participation rate in stopping the spread of COVID-19 by comparing the followers of the democrat party such as wearing masks. The group members come with this specific hypothesis not only from the experience but also from the research (See the background research). From our past experience, our group members witness that people have different public perceptions of coronavirus facts in response to the two parties. Our group will analyze the U.S president election data in 2016 and the globe coronavirus report. Although the coronavirus data is not only focused on the U.S, we can use other countries as a guide and furthermore analyze the situation. We hope to find a correlation between political preference and the increasing rate of corona cases.
+
+The Project Proposal: 
+
+The Project Report:
